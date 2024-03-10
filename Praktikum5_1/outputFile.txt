@@ -1,0 +1,45 @@
+******************************************************
+Number of employees working as MANAGER are: 1
+******************************************************
+1. Manager Details:
+Store Details: Hybe
+Employee Name: Zahra
+Employee Status: Full-time Employee
+Base Pay: $50000.0
+Number of Hours worked: 10.0hrs
+Payment Rate per hour: $100.0/hr
+Total Sales in store: $100000.0
+Sales done: $30000.0
+Percentage of sales done: 30.00%
+Gross Payment: $58650.0
+Annual Wage Supplement: $150000.00
+Remaining store revenue: $27076.500000000007
+Total Annual Leave: 12
+******************************************************
+Number of employees working as SALES ASSOCIATES are: 1
+******************************************************
+Store Details: Bighit
+Employee Name: Jung Kook
+Employee Status: Contract Employee
+Base Pay: $10000.0
+Number of Hours worked: 10.0hrs
+Payment Rate per hour: $150.0/hr
+Sales Rate: 50.0%
+Total commission: $1000.0
+Gross Payment: $12500.0
+Annual Wage Supplement: $20000.00
+Total Annual Leave: 12
+******************************************************
+Number of employees working as CASHIER are: 1
+******************************************************
+Store Details: Bangtan Store
+Employee Name: RM
+Employee Status: Part Time Employee
+Base Pay: $30000.0
+Number of Hours worked: 10.0hrs
+Payment Rate per hour: $150.0/hr
+Cashier Rate: 70.0%
+Total commission: $3000.0
+Gross Payment: $34500.0
+Annual Wage Supplement: $30000.00
+Total Annual Leave: 12

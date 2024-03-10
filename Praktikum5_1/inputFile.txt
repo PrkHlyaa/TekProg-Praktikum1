@@ -1,0 +1,12 @@
+Manager
+Hybe
+Zahra
+50000 10 100 30000 100000
+Sales Associate
+Bighit
+Jung Kook
+10000 10 150 0.5
+Cashier
+Bangtan Store
+RM
+30000 10 150 0.7
