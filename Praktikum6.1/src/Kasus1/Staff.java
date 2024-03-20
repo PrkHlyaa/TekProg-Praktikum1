@@ -12,8 +12,8 @@ public class Staff {
         staffList[3] = new Hourly("Diane", "678 Fifth Ave.", "555-0690", "958-47-3625", 10.55);
         staffList[4] = new Volunteer("Norm", "987 Suds Blvd.", "555-8374");
         staffList[5] = new Volunteer("Cliff", "Duds Lane.", "555-7282");
-        staffList[6] = new Commission("Zahra", "Karangpawitan", "555-0356", "135-67-7896", 6.25, 0.20);
-        staffList[7] = new Commission("Hilyah", "Villa Duta Street No 3", "555-1423", "175-90-3467", 9.75, 0.15);
+        staffList[6] = new Commission("Zahra", "Karangpawitan", "555-0356", "135-67-7896", 6.25, 20);
+        staffList[7] = new Commission("Hilyah", "Villa Duta Street No 3", "555-1423", "175-90-3467", 9.75, 15);
         
 
         ((Executive)staffList[0]).awardBonus(500.00);

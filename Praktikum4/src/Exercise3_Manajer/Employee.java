@@ -10,8 +10,8 @@ public class Employee extends Sortable{
 	public Employee(String n, double s, int day, int month, int year) {
 		this.name = n;
 		this.salary = s;
-		this.hireday = day;
-		this.hiremonth = month;
+		this.setHireday(day);
+		this.setHiremonth(month);
 		this.hireyear = year;
 	}
 	
@@ -32,6 +32,22 @@ public class Employee extends Sortable{
 	
 	public void print(){ 
 		System.out.println(name + " " + salary + " " + hireYear());
+	}
+
+	public int getHireday() {
+		return hireday;
+	}
+
+	public void setHireday(int hireday) {
+		this.hireday = hireday;
+	}
+
+	public int getHiremonth() {
+		return hiremonth;
+	}
+
+	public void setHiremonth(int hiremonth) {
+		this.hiremonth = hiremonth;
 	}
 
 }

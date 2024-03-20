@@ -16,7 +16,7 @@ public class Commission extends Hourly {
     @Override
     public double pay(){
         double basePay  = super.pay();
-        double commisionPay = totalSales * commissionRate;
+        double commisionPay = totalSales * (commissionRate/100);
         totalSales = 0;
         
         return basePay + commisionPay;
