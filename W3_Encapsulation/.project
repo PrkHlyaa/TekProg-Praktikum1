@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>W1_Introduction</name>
+	<name>W3_Encapsulation</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -16,7 +16,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1713421331898</id>
+			<id>1713421331940</id>
 			<name></name>
 			<type>30</type>
 			<matcher>
